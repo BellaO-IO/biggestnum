@@ -1,0 +1,6 @@
+open the file/progam that has the numbers inside
+clone the numbers
+see how far each number is from 0
+the number that is the farest is the biggest
+
+
